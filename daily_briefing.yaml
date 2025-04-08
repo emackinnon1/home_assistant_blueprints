@@ -344,7 +344,7 @@ action:
 # At {{ start_time }} you have {{ summary }}.
 # {%- endfor %}
 # {%- endif %}
-data:
-type: tts
-target:
-- media_player.bedroom
+# data:
+# type: tts
+# target:
+# - media_player.bedroom
